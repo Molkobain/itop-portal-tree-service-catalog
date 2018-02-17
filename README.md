@@ -3,8 +3,6 @@
 ### Description
 Set the *tree* view as default for the service catalog of the user portal.
 
-*Note: You must have the _tree_ view enabled for the service catalog in order to use this extension.*
-
 ![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-tree-service-catalog/master/docs/service-catalog-tree.PNG)
 
 ### Compatibility
