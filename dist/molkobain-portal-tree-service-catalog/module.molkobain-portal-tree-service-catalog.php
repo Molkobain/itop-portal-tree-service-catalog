@@ -14,7 +14,7 @@ SetupWebPage::AddModule(
 	'molkobain-portal-tree-service-catalog/1.0.0', array(
 	// Identification
 	'label' => 'Portal: Service catalog as tree view',
-		'category' => 'Portal',
+		'category' => 'portal',
 	// Setup
 	'dependencies' => array(
 	    'itop-portal/1.0.0',
